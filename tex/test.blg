@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: test.aux
+The style file: plain.bst
+Database file #1: test.bib
+Warning--entry type for "Blueview" isn't style-file defined
+--line 26 of file test.bib
+Warning--entry type for "BBAUV" isn't style-file defined
+--line 174 of file test.bib
+Warning--entry type for "PFDemo" isn't style-file defined
+--line 335 of file test.bib
+Warning--there's a number but no volume in Coiras2009
+Warning--there's a number but no volume in Fox1999
+Warning--empty journal in Spears
+Warning--empty year in Spears
+Warning--empty journal in Xu2012
+You've used 26 entries,
+            2118 wiz_defined-function locations,
+            659 strings with 8402 characters,
+and the built_in function-call counts, 8500 in all, are:
+= -- 826
+> -- 429
+< -- 6
++ -- 169
+- -- 142
+* -- 586
+:= -- 1437
+add.period$ -- 76
+call.type$ -- 26
+change.case$ -- 148
+chr.to.int$ -- 0
+cite$ -- 31
+duplicate$ -- 312
+empty$ -- 635
+format.name$ -- 142
+if$ -- 1749
+int.to.chr$ -- 0
+int.to.str$ -- 26
+missing$ -- 23
+newline$ -- 130
+num.names$ -- 54
+pop$ -- 150
+preamble$ -- 1
+purify$ -- 122
+quote$ -- 0
+skip$ -- 242
+stack$ -- 0
+substring$ -- 477
+swap$ -- 63
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 104
+warning$ -- 5
+while$ -- 86
+width$ -- 28
+write$ -- 269
+(There were 8 warnings)

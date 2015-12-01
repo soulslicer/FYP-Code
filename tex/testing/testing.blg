@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: testing.aux
+The style file: plain.bst
+Database file #1: testing.bib
+Warning--to sort, need author or key in grimm
+Warning--to sort, need author or key in grimm2
+Warning--empty author in grimm
+Warning--empty journal in grimm
+Warning--empty year in grimm
+Warning--empty author in grimm2
+Warning--empty journal in grimm2
+Warning--empty year in grimm2
+You've used 2 entries,
+            2118 wiz_defined-function locations,
+            500 strings with 4057 characters,
+and the built_in function-call counts, 342 in all, are:
+= -- 26
+> -- 2
+< -- 0
++ -- 4
+- -- 0
+* -- 30
+:= -- 47
+add.period$ -- 2
+call.type$ -- 2
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 10
+duplicate$ -- 20
+empty$ -- 37
+format.name$ -- 0
+if$ -- 67
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 2
+newline$ -- 9
+num.names$ -- 0
+pop$ -- 16
+preamble$ -- 1
+purify$ -- 4
+quote$ -- 0
+skip$ -- 12
+stack$ -- 0
+substring$ -- 12
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 8
+while$ -- 0
+width$ -- 3
+write$ -- 12
+(There were 8 warnings)

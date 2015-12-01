@@ -1,0 +1,152 @@
+\begin{thebibliography}{10}
+
+\bibitem{BBAUV}
+BBAUV.
+\newblock Bbauv 2.5.
+
+\bibitem{Blueview}
+Teledyne Blueview.
+\newblock Blueview imaging sonar.
+
+\bibitem{opencv_library}
+G.~Bradski.
+\newblock Opencv library.
+\newblock {\em Dr. Dobb's Journal of Software Tools}, 2000.
+
+\bibitem{handbook-of-robotics}
+Alberto Broggi, Alexander Zelinsky, Michel Parent, and Charles~E. Thorpe.
+\newblock {Intelligent Vehicles}.
+\newblock In Bruno Siciliano and Oussama Khatib, editors, {\em Springer
+  Handbook of Robotics}, chapter~51, pages 1175--1198. Springer Berlin
+  Heidelberg, May 2008.
+\newblock ISBN 978-3-540-23957-4.
+
+\bibitem{Carlevaris-Bianco2010}
+Nicholas Carlevaris-Bianco, Anush Mohan, and Ryan~M. Eustice.
+\newblock {Initial results in underwater single image dehazing}.
+\newblock {\em MTS/IEEE Seattle, OCEANS 2010}, 2010.
+
+\bibitem{Clark2007}
+Daniel Clark, Ioseba~Tena Ruiz, Yvan Petillot, and Judith Bell.
+\newblock {Particle PHD filter multiple target tracking in sonar image}.
+\newblock {\em IEEE Transactions on Aerospace and Electronic Systems},
+  43:409--415, 2007.
+
+\bibitem{Coiras2009}
+E~Coiras and J~Groen.
+\newblock {Simulation and 3d reconstruction of sidelooking sonar images}.
+\newblock {\em Advances in sonar technology. IN-TECH}, (February):1--15, 2009.
+
+\bibitem{Creuze2005}
+V.~Creuze, B.~Jouvencel, and P.~Baccou.
+\newblock {3D-bottom tracking based on acoustic diffraction for autonomous
+  underwater vehicles}.
+\newblock {\em ICAR '05. Proceedings., 12th International Conference on
+  Advanced Robotics, 2005.}, pages 3--8, 2005.
+
+\bibitem{4804062}
+D.M. Deveau and A.P. Lyons.
+\newblock Fluid-filled passive sonar calibration spheres: Design, modeling, and
+  measurement.
+\newblock {\em Oceanic Engineering, IEEE Journal of}, 34(1):93--100, Jan 2009.
+
+\bibitem{dubois-1999-cse}
+Paul~F. Dubois.
+\newblock Extending python with fortran.
+\newblock {\em Computing Science and Engineering}, 1999.
+
+\bibitem{Fox1999}
+Dieter Fox, Wolfram Burgard, Frank Dellaert, and Sebastian Thrun.
+\newblock {Monte Carlo Localization: Efficient Position Estimation for Mobile
+  Robots Dieter Fox, Wolfram Burgard}.
+\newblock {\em 16th National Conference on Artificial Intelligence (AAAI99)},
+  (Handschin 1970):343--349, 1999.
+
+\bibitem{Kim2001}
+Kt~Kim, Dk~Seo, and Ht~Kim.
+\newblock {Radar target identification using one-dimensional scattering
+  centres}.
+\newblock {\em IEE Proceedings-Radar, Sonar and Navigation}, 152(4):285--296,
+  2001.
+
+\bibitem{Knauer2006}
+Christian Knauer and Klaus Kriegel.
+\newblock {On the Bounding Boxes Obtained by Principal Component Analysis}.
+\newblock {\em 2nd European Workshop on Computational Geometry}, pages
+  193--196, 2006.
+
+\bibitem{Krout2011}
+D.W. Krout, G.~Okopal, and E.~Hanusa.
+\newblock {Video data and sonar data : real world data fusion example}.
+\newblock {\em Information Fusion (FUSION), 2011 Proceedings of the 14th
+  International Conference on}, pages 1 -- 5, 2011.
+
+\bibitem{marquardt:1963}
+Donald~W. Marquardt.
+\newblock An algorithm for least-squares estimation of nonlinear parameters.
+\newblock {\em SIAM Journal on Applied Mathematics}, 11(2):431--441, 1963.
+
+\bibitem{Miller2010}
+Paul~a. Miller, Jay~a. Farrell, Yuanyuan Zhao, and Vladimir Djapic.
+\newblock {Autonomous underwater vehicle navigation}.
+\newblock {\em IEEE Journal of Oceanic Engineering}, 35(3):663--678, 2010.
+
+\bibitem{Negahdaripour2010}
+S.~Negahdaripour.
+\newblock {A new method for calibration of an opti-acoustic stereo imaging
+  system}.
+\newblock {\em MTS/IEEE Seattle, OCEANS 2010}, pages 1--7, 2010.
+
+\bibitem{Negahdaripour2009}
+Shahriar Negahdaripour, Hicham Sekkati, and Hamed Pirsiavash.
+\newblock {Opti-acoustic stereo imaging: On system calibration and 3-D target
+  reconstruction}.
+\newblock {\em IEEE Transactions on Image Processing}, 18(6):1203--1214, 2009.
+
+\bibitem{PFDemo}
+Eiji Ota.
+\newblock Simple particle filter demo.
+
+\bibitem{Quigley2009}
+Morgan Quigley, Ken Conley, Brian Gerkey, Josh FAust, Tully Foote, Jeremy
+  Leibs, Eric Berger, Rob Wheeler, and Andrew Mg.
+\newblock {ROS: an open-source Robot Operating System}.
+\newblock {\em Icra}, 3(Figure 1):5, 2009.
+
+\bibitem{Spears}
+Anthony Spears, Ayanna~M Howard, Michael West, and Thomas Collins.
+\newblock {Acoustic Sonar and Video Sensor Fusion for Landmark Detection in an
+  Under-Ice Environment}.
+
+\bibitem{Sturm1999}
+P.F. Sturm and S.J. Maybank.
+\newblock {On plane-based camera calibration: A general algorithm,
+  singularities, applications}.
+\newblock {\em Proceedings. 1999 IEEE Computer Society Conference on Computer
+  Vision and Pattern Recognition (Cat. No PR00149)}, 1(c), 1999.
+
+\bibitem{Swirski2013}
+Yohay Swirski and Yoav~Y. Schechner.
+\newblock {3Deflicker from motion}.
+\newblock In {\em 2013 IEEE International Conference on Computational
+  Photography, ICCP 2013}, 2013.
+
+\bibitem{Trieb2005}
+J.~Torstensson and M.~Trieb.
+\newblock {Particle Filtering for Track Before Detect Applications}.
+\newblock {\em Division of Automatic Control Department of Electrical
+  Engineering Link ̈oping University, Sweden}, 2005.
+
+\bibitem{Williams2004}
+S.~Williams and I.~Mahon.
+\newblock {Simultaneous localisation and mapping on the Great Barrier Reef}.
+\newblock {\em IEEE International Conference on Robotics and Automation, 2004.
+  Proceedings. ICRA '04. 2004}, 2, 2004.
+
+\bibitem{Xu2012}
+Guo~H Xu, Li~Y Wu, Kun Yu, Cheng Yang, and Lin Yang.
+\newblock {Multi-target Detection of Underwater Vehicle Based on Multi-sensor
+  Data Fusion}.
+\newblock 4:467--471, 2012.
+
+\end{thebibliography}

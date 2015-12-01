@@ -1,0 +1,13 @@
+geometry_msgs/Point32 sonarPosition
+geometry_msgs/Point32 vehiclePosition
+geometry_msgs/Polygon contour
+geometry_msgs/Point32 centroid
+geometry_msgs/Point32 pixelVector
+float32 majorLength
+float32 minorLength
+geometry_msgs/Polygon cornerPoints
+geometry_msgs/Point32 polarCentre
+geometry_msgs/Point32 polarLeft
+geometry_msgs/Point32 polarRight
+bool trackValid
+camera_mapping mapping

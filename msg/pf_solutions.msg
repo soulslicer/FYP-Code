@@ -1,0 +1,4 @@
+Header header
+geometry_msgs/Point32 sonarMeanPosition
+geometry_msgs/Point32 vehicleMeanPosition
+pf_solution[] pf_solutions

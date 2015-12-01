@@ -1,0 +1,4 @@
+<launch>
+<node pkg="nodelet" type="nodelet" name="sonar" args="standalone sonar/Sonar">
+</node>
+</launch>

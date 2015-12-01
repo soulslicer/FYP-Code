@@ -1,0 +1,8 @@
+<library path="libsonar">
+    <class name="sonar/Sonar" type="sonar::Sonar"
+            base_class_type="nodelet::Nodelet">
+        <description>
+            Blueview p450 sonar driver
+        </description>
+    </class>
+</library>

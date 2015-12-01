@@ -1,0 +1,32 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces SAAB Sabertooth\relax }}{6}{figure.caption.3}
+\contentsline {figure}{\numberline {2}{\ignorespaces Objects seen in both the camera and sonar are barely visible\relax }}{6}{figure.caption.4}
+\contentsline {figure}{\numberline {3}{\ignorespaces Great Barrier Reef 3D mapping in William's paper\relax }}{7}{figure.caption.5}
+\contentsline {figure}{\numberline {4}{\ignorespaces Projecting sonar image into camera space on under ice topography in Spear's paper\relax }}{8}{figure.caption.6}
+\contentsline {figure}{\numberline {5}{\ignorespaces JDPA tracking in Krout's paper\relax }}{8}{figure.caption.7}
+\contentsline {figure}{\numberline {6}{\ignorespaces AUV Dynamic model in Miller's paper\relax }}{8}{figure.caption.8}
+\contentsline {figure}{\numberline {7}{\ignorespaces Corresponding points between sonar and camera images in Negahdaripour's paper\relax }}{9}{figure.caption.9}
+\contentsline {figure}{\numberline {8}{\ignorespaces BumbleBee AUV 2.5\relax }}{9}{figure.caption.10}
+\contentsline {figure}{\numberline {9}{\ignorespaces FLS Image Formation 1\relax }}{10}{figure.caption.12}
+\contentsline {figure}{\numberline {10}{\ignorespaces FLS Image Formation 2\relax }}{11}{figure.caption.13}
+\contentsline {figure}{\numberline {11}{\ignorespaces Sonar Frame\relax }}{11}{figure.caption.14}
+\contentsline {figure}{\numberline {12}{\ignorespaces Camera Calibration\relax }}{11}{figure.caption.15}
+\contentsline {figure}{\numberline {13}{\ignorespaces Particle filter estimating pdf\relax }}{13}{figure.caption.16}
+\contentsline {figure}{\numberline {14}{\ignorespaces Particle Filter Stages\relax }}{14}{figure.caption.17}
+\contentsline {figure}{\numberline {15}{\ignorespaces Sonar Camera Model\relax }}{15}{figure.caption.18}
+\contentsline {figure}{\numberline {16}{\ignorespaces Sonar Vehicle Model\relax }}{15}{figure.caption.19}
+\contentsline {figure}{\numberline {17}{\ignorespaces Before and after applying image processing techniques on sonar image\relax }}{16}{figure.caption.20}
+\contentsline {figure}{\numberline {18}{\ignorespaces Calibration buoy seen in the camera frame\relax }}{17}{figure.caption.21}
+\contentsline {figure}{\numberline {19}{\ignorespaces Matching objects in the sonar and camera by projecting ambiguity lines into the camera\relax }}{19}{figure.caption.23}
+\contentsline {figure}{\numberline {20}{\ignorespaces Sonar Features used\relax }}{21}{figure.caption.24}
+\contentsline {figure}{\numberline {21}{\ignorespaces Large errors in pixel space (left) and 3D space (right) before calibration\relax }}{23}{figure.caption.25}
+\contentsline {figure}{\numberline {22}{\ignorespaces Reduced errors in pixel space (left) and 3D space (right) after calibration\relax }}{23}{figure.caption.26}
+\contentsline {figure}{\numberline {23}{\ignorespaces 3D Euclidean error between resolved 3D coordinates from sonar and camera data vs ground truth in metres\relax }}{24}{figure.caption.27}
+\contentsline {figure}{\numberline {24}{\ignorespaces 2D Pixel Euclidean error between projected pixels and ground truth before and after calibration\relax }}{25}{figure.caption.28}
+\contentsline {figure}{\numberline {26}{\ignorespaces Testing calibrated parameters derived from training set against 4 test sets\relax }}{27}{figure.caption.30}
+\contentsline {figure}{\numberline {27}{\ignorespaces Object not visible in camera, hence bigger uncertainty in elevation as seen in the camera image\relax }}{28}{figure.caption.31}
+\contentsline {figure}{\numberline {28}{\ignorespaces Elevation ambiguity corrected via camera. Also loss of sonar information at that instant, but position still maintained through camera and odometry fusion but with increased covariance\relax }}{28}{figure.caption.31}
+\contentsline {figure}{\numberline {29}{\ignorespaces Object not visible in sonar, hence ambiguity in range\relax }}{28}{figure.caption.31}
+\contentsline {figure}{\numberline {30}{\ignorespaces Objective is to localize the task board located nearly 15m away in murky water and is barely visible in either sensor\relax }}{29}{figure.caption.32}
+\contentsline {figure}{\numberline {31}{\ignorespaces Particle Filter still localizes the object in 3D space\relax }}{29}{figure.caption.32}
+\contentsline {figure}{\numberline {32}{\ignorespaces Particle Filter localizes the object despite noisy data in both sensors when close to a wall\relax }}{29}{figure.caption.32}
+\contentsline {figure}{\numberline {34}{\ignorespaces Comparison of object coordinates derived through the mapping method vs particle filter\relax }}{30}{figure.caption.34}

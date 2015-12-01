@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Introduction}{}{section.1}
+\contentsline {section}{\numberline {2}Preliminaries}{}{section.2}
+\contentsline {subsection}{\numberline {2.1}Literature Review}{}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Vehicle}{}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Sonar Model}{}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Camera Model}{}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Combined Model}{}{subsection.2.5}
+\contentsline {section}{\numberline {3}Data Collection}{}{section.3}
+\contentsline {subsection}{\numberline {3.1}Setup}{}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Sonar Image processing}{}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Camera Image processing}{}{subsection.3.3}
+\contentsline {section}{\numberline {4}Calibration}{}{section.4}
+\contentsline {subsection}{\numberline {4.1}Calibration process}{}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Real time testing}{}{subsection.4.2}
+\contentsline {section}{\numberline {5}Tracking Filters}{}{section.5}
+\contentsline {subsection}{\numberline {5.1}Estimation Theory}{}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Particle Filter Algorithm}{}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Dynamic Model}{}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Measurement Model}{}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Particle Filter Results}{}{subsection.5.5}
+\contentsline {section}{\numberline {6}Conclusion}{}{section.6}

@@ -1,0 +1,3 @@
+geometry_msgs/Point32 sonarPosition
+geometry_msgs/Point32 vehiclePosition
+float64[9] covariance
